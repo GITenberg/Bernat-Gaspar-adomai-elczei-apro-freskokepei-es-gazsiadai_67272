@@ -1,0 +1,25 @@
+_repo: Bernat-Gaspar-adomai-elczei-apro-freskokepei-es-gazsiadai_67272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernát, Gáspár
+    gutenberg_agent_id: '54188'
+    url: http://www.gutenberg.org/2009/agents/54188
+description: ''
+gutenberg_issued: '2022-01-29'
+identifiers:
+  gutenberg: '67272'
+language: hu
+pgterms:marc905: 20220123083548bernt
+pgterms:marc906: '1878'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Franklin,1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bernát Gáspár adomái, élczei, apró freskóképei és gazsiádái
+url: http://www.gutenberg.org/ebooks/67272
